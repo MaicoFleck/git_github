@@ -1,1 +1,2 @@
 brach é uma linha paralela usada para desenvolver novas funcionalidades 
+git push -u origin
