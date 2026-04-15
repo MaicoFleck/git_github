@@ -1,0 +1,1 @@
+issues são os registros de taferas a serem executadas no repositório.
